@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/product-list-with-cart/static/css/main.7dff55a6.css",
+    "main.js": "/product-list-with-cart/static/js/main.054089a4.js",
+    "static/media/icon-order-confirmed.svg": "/product-list-with-cart/static/media/icon-order-confirmed.13c71f684bda7569ca16.svg",
+    "index.html": "/product-list-with-cart/index.html",
+    "static/media/icon-add-to-cart.svg": "/product-list-with-cart/static/media/icon-add-to-cart.12141fdf0da9c38c6421.svg",
+    "main.7dff55a6.css.map": "/product-list-with-cart/static/css/main.7dff55a6.css.map",
+    "main.054089a4.js.map": "/product-list-with-cart/static/js/main.054089a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dff55a6.css",
+    "static/js/main.054089a4.js"
+  ]
+}
